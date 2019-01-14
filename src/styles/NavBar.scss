@@ -1,0 +1,43 @@
+.NavBar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #524649;
+  padding: 1rem;
+}
+
+.ideabox-title {
+  display: inline-block;
+  color: #afa5cd;
+}
+
+.triples {
+  color: #fff;
+}
+
+.search-form {
+  display: flex;
+}
+
+.search-input {
+  border-radius: 5px 0px 0px 5px;
+  border: none;
+  color: #8A8494;
+  outline-color: #afa5cd;
+  width: 100%;
+}
+
+.search-button {
+  background-color: #C2C1C0;
+  border-radius: 0px 5px 5px 0px;
+  border: none;
+}
+
+.search-button:hover {
+  cursor: pointer;
+}
+
+.fa-search {
+  color: #FFFFFF;
+  padding: 6px;
+}
